@@ -1,0 +1,3 @@
+[submodule "libs/rust-sdl"]
+	path = libs/rust-sdl
+	url = https://github.com/limeburst/rust-sdl
